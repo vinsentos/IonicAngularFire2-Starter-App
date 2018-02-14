@@ -2,4 +2,7 @@
 Ionic Start App for AngularFire2 - Firebase integration starting point.
 
 # Usage
---- COMING SOON ----
+-- COMING SOON --
+
+# Setup 
+-- COMING SOON --
